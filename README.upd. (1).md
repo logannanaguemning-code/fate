@@ -128,7 +128,3 @@ Macros can take an object instead of a bare list of steps, adding a minimum gap 
 ## Notes
 
 Using macros or remapped input may violate the terms of service of some online games — check the rules for whatever you're playing before using this competitively.
-
-## License
-
-MIT
