@@ -71,7 +71,3 @@ JSON. `button_map` is a simple 1:1 button → key mapping. `macros` fires a sequ
 ## Notes
 
 Using macros or remapped input may violate the terms of service of some online games — check the rules for whatever you're playing before using this competitively.
-
-## License
-
-MIT
