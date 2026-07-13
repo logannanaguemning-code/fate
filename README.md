@@ -10,39 +10,7 @@ This project reads raw controller input and lets you:
 - Adjust sensitivity, dead zones, and trigger curves
 - Save/load different profiles per game
 
-## Why
-
-Built this to learn how controller input (HID/USB) works at a lower level, and to get remapping options that aren't available out of the box.
-
-## Status
-
-🚧 Work in progress — early stage, expect bugs and missing features.
-
-## Tech Stack
-
-- Language: *(e.g. Python / C++ / Rust — fill in)*
-- Libraries: *(e.g. `hidapi`, `pygame`, `SDL2`, `pyvjoy` — fill in)*
-- Platform: Windows / Linux / macOS
-
-## Getting Started
-
 ### Prerequisites
-
-- *(list dependencies here)*
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt   # or your language's equivalent
-```
-
-### Usage
-
-```bash
-python main.py
-```
 
 ## Roadmap
 
@@ -55,8 +23,5 @@ python main.py
 ## Notes
 
 - This is a personal/hobby project for learning purposes.
-- Using macros or modified controller input online may violate the terms of service of some games or platforms — that's on you to check for whatever you're using this with.
+- if you want t0 use this macro you need to check wether it is allowed on certain games. 
 
-## License
-
-*(MIT / GPL / etc. — pick one)*
