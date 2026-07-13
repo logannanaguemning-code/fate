@@ -1,5 +1,5 @@
 """
-Controller Remapper & Macro Engine
+Controller Remapper & Macro Engin
 -----------------------------------
 Reads input from any controller connected to your PC (Xbox, PS4, PS5,
 generic USB/Bluetooth gamepads — anything your OS already recognizes as
