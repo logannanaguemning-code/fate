@@ -1,6 +1,6 @@
 {
   "controller_index": 0,
-  "deadzone": 0.15
+  "deadzone": 0.15,
 
   "button_map": {
     "0": "space",
