@@ -10,8 +10,6 @@ This project reads raw controller input and lets you:
 - Adjust sensitivity, dead zones, and trigger curves
 - Save/load different profiles per game
 
-### Prerequisites
-
 ## Roadmap
 
 - [ ] Basic input reading
