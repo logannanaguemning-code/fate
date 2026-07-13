@@ -43,9 +43,7 @@ Run with a custom profile:
 python remapper/main.py --profile remapper/profiles/my_profile.json
 ```
 
-## Writing a profile
-
-Profiles are JSON. `button_map` is a simple 1:1 button → key mapping. `macros` fires a sequence of key actions when a specific combo of buttons is pressed together (keys are button indices from `--list`, joined with `+`).
+JSON. `button_map` is a simple 1:1 button → key mapping. `macros` fires a sequence of key actions when a specific combo of buttons is pressed together (keys are button indices from `--list`, joined with `+`).
 
 ```json
 {
