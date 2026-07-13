@@ -1,4 +1,4 @@
-# fate# Controller Remapper & Macro Tool
+# fate Controller Remapper & Macro Tool
 
 A personal project for remapping inputs and building custom macros for a game controller (PC / DualSense) using code instead of manufacturer software.
 
